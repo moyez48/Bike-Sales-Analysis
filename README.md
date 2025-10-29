@@ -64,8 +64,5 @@ License
 This project is currently not licensed for redistribution or re-use. If you wish to open-source it, consider adding an MIT License or similar.
 
 Contact
-Majesty Umoye on LinkedIn
-
-Contact
 [Majesty Umoye on LinkedIn](https://www.linkedin.com/in/majestyumoye)
 
