@@ -1,7 +1,9 @@
 Bike Sales Analysis
+
 A data-driven exploration of sales trends for a fictional bicycle company, designed to uncover high-revenue customers, top-performing markets, and product growth opportunities.
 
 Project Overview
+
 This project analyzes bicycle sales data to:
 	Identify high-revenue customers and countries
 	Highlight profitable product lines
